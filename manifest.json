@@ -1,12 +1,12 @@
 {
   "host": {
-    "version": "0.2.3",
-    "notes": "Bez zmian po stronie hosta w tej wersji — podbita razem z klientem dla spójnego numeru wersji.",
+    "version": "0.2.4",
+    "notes": "Przeciąganie kafelków (przesuwanie / zamiana miejscami) w edytorze szablonu, opcja \"Pokaż okno konsoli\" dla akcji \"Uruchom polecenie\" (np. do kafelka z ping), prawie 80 nowych wbudowanych ikon z podziałem na strony.",
     "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Host.zip"
   },
   "client": {
-    "version": "0.2.3",
-    "notes": "Poprawiony ekran parowania — skanowanie kodu QR i wybór komputera z listy (kod ręczny) są teraz jasno oddzielone i opisane.",
+    "version": "0.2.4",
+    "notes": "Prawie 80 nowych wbudowanych ikon dostępnych do wyboru na kafelkach (widoczne po skonfigurowaniu ich na hoście).",
     "urls": {
       "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client-Setup.exe",
       "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client.apk",
