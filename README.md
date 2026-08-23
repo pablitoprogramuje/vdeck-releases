@@ -10,11 +10,21 @@ powodu, appki na to reagują.
 
 ## Najnowsza wersja
 
-Zobacz [Releases](https://github.com/pablitoprogramuje/vdeck-releases/releases/latest).
+Zobacz [Releases](https://github.com/pablitoprogramuje/vdeck-releases/releases/latest) — każdy release ma swoją
+stronę z numerem wersji w notatkach, ale nazwy plików assetów **nie zawierają numeru wersji**, żeby dało się
+linkować do "zawsze najnowszej" binarki bez ręcznej aktualizacji linku przy każdym wydaniu:
 
-- **VDeck-Host-X.Y.Z.zip** — host na Windows (wypakuj, uruchom `VDeck.Host.App.exe`)
+```
+https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/<nazwa-pliku>
+```
+
+GitHub przekierowuje ten adres na asset o danej nazwie z release'a aktualnie oznaczonego jako „Latest" —
+strona WWW i `manifest.json` używają właśnie tej formy, więc nowy release (te same nazwy plików, nowy tag) nie
+wymaga aktualizacji żadnego linku, tylko podmiany samych plików.
+
+- **VDeck-Host.zip** — host na Windows (wypakuj, uruchom `VDeck.Host.App.exe`)
 - **VDeck-Client-Setup.exe** — instalator klienta Windows (jeden plik, bez uprawnień administratora)
-- **VDeck-Client-X.Y.Z.apk** — klient na Androida (podpisany kluczem debug — zainstaluj bezpośrednio z pobranego
+- **VDeck-Client.apk** — klient na Androida (podpisany kluczem debug — zainstaluj bezpośrednio z pobranego
   pliku, poza Google Play)
 
 Klient na iOS nie jest jeszcze publikowany — build wymaga podpisu certyfikatem Apple Developer, którego jeszcze

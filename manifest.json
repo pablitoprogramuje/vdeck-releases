@@ -2,14 +2,14 @@
   "host": {
     "version": "0.2.2",
     "notes": "Prawdziwa ikona aplikacji, odświeżony pulpit i ustawienia (kafelki-karty, naprawiony ucięty tekst, lepsze wykorzystanie szerokości okna).",
-    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Host-0.2.2.zip"
+    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Host.zip"
   },
   "client": {
     "version": "0.2.2",
     "notes": "Prawdziwa ikona aplikacji (host i klient mają teraz tę samą ikonę VDeck zamiast domyślnej Fluttera).",
     "urls": {
-      "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Client-Setup.exe",
-      "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Client-0.2.2.apk",
+      "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client-Setup.exe",
+      "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client.apk",
       "ios": null
     }
   }
