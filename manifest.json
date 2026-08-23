@@ -1,15 +1,15 @@
 {
   "host": {
-    "version": "0.2.1",
-    "notes": "Spójny zestaw ikon (Material Icons na hoście i we Flutterze), naprawione skróty klawiszowe i akcje systemowe (SendInput), naprawiony układ kafelków w poziomie, odświeżony wygląd panelu.",
-    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.1/VDeck-Host-0.2.1.zip"
+    "version": "0.2.2",
+    "notes": "Prawdziwa ikona aplikacji, odświeżony pulpit i ustawienia (kafelki-karty, naprawiony ucięty tekst, lepsze wykorzystanie szerokości okna).",
+    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Host-0.2.2.zip"
   },
   "client": {
-    "version": "0.2.1",
-    "notes": "Spójny zestaw ikon (Material Icons na hoście i we Flutterze), naprawiony układ kafelków w poziomie, gradient na aktywnym kafelku, procent na suwakach, kropki stron, plakietka połączenia z nazwą hosta.",
+    "version": "0.2.2",
+    "notes": "Prawdziwa ikona aplikacji (host i klient mają teraz tę samą ikonę VDeck zamiast domyślnej Fluttera).",
     "urls": {
-      "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.1/VDeck-Client-Setup.exe",
-      "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.1/VDeck-Client-0.2.1.apk",
+      "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Client-Setup.exe",
+      "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.2/VDeck-Client-0.2.2.apk",
       "ios": null
     }
   }
