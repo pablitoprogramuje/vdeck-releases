@@ -1,0 +1,12 @@
+{
+  "host": {
+    "version": "0.2.0",
+    "notes": "Pierwsza wersja z mechanizmem sprawdzania aktualizacji, edytorem szablonów, akcjami systemowymi (głośność, jasność, skróty klawiszowe) i wieloma poprawkami.",
+    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.0/VDeck-Host-0.2.0.zip"
+  },
+  "client": {
+    "version": "0.2.0",
+    "notes": "Pierwsza wersja z mechanizmem sprawdzania aktualizacji, selektorami szablonu/strony i wieloma poprawkami.",
+    "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/download/v0.2.0/VDeck-Client-Setup.exe"
+  }
+}
