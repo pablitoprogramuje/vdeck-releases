@@ -1,12 +1,12 @@
 {
   "host": {
-    "version": "0.2.7",
-    "notes": "Dużo więcej ikon i naprawiona nieczytelna podpowiedź w edytorze kafelków. Kafelki mogą teraz zmieniać kolor po kliknięciu niezależnie od przypisanej akcji (kolor do wyboru, domyślnie fioletowo-różowy gradient). Dostępny nowy zbiorczy instalator Host+Klient (VDeck-Setup.exe na stronie pobierania).",
+    "version": "0.2.8",
+    "notes": "Bez zmian po stronie hosta w tej wersji — podbita razem z klientem dla spójnego numeru wersji.",
     "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Host.zip"
   },
   "client": {
-    "version": "0.2.7",
-    "notes": "Naprawiony niejasny błąd przy skanowaniu kodu QR na Androidzie (teraz pokazuje prawdziwy powód, zwykle brak uprawnienia do aparatu, z przyciskiem do ustawień). Dużo więcej ikon w edytorze kafelków na hoście.",
+    "version": "0.2.8",
+    "notes": "Naprawiona awaria skanera kodu QR na Androidzie (błąd 'getClass() null object reference' przy próbie uruchomienia aparatu) — poprzednia poprawka w 0.2.7 tylko odkryła prawdziwy komunikat błędu, ta go faktycznie usuwa.",
     "urls": {
       "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client-Setup.exe",
       "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client.apk",
