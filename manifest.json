@@ -1,12 +1,12 @@
 {
   "host": {
-    "version": "0.2.6",
-    "notes": "Aktualizacje pobierają się i instalują teraz w aplikacji: pasek postępu w Ustawieniach, po pobraniu automatyczne wypakowanie i restart — bez ręcznego wychodzenia z aplikacji.",
+    "version": "0.2.7",
+    "notes": "Dużo więcej ikon i naprawiona nieczytelna podpowiedź w edytorze kafelków. Kafelki mogą teraz zmieniać kolor po kliknięciu niezależnie od przypisanej akcji (kolor do wyboru, domyślnie fioletowo-różowy gradient). Dostępny nowy zbiorczy instalator Host+Klient (VDeck-Setup.exe na stronie pobierania).",
     "url": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Host.zip"
   },
   "client": {
-    "version": "0.2.6",
-    "notes": "Aktualizacje pobierają się i instalują teraz w aplikacji: pasek postępu, a po pobraniu jedno kliknięcie (Windows: cichy instalator z automatycznym restartem; Android: systemowe okno instalacji) — bez ręcznego wychodzenia z aplikacji i szukania pobranego pliku.",
+    "version": "0.2.7",
+    "notes": "Naprawiony niejasny błąd przy skanowaniu kodu QR na Androidzie (teraz pokazuje prawdziwy powód, zwykle brak uprawnienia do aparatu, z przyciskiem do ustawień). Dużo więcej ikon w edytorze kafelków na hoście.",
     "urls": {
       "windows": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client-Setup.exe",
       "android": "https://github.com/pablitoprogramuje/vdeck-releases/releases/latest/download/VDeck-Client.apk",
